@@ -2,10 +2,10 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "android_app",
+      "namespace": "com.rikkei.isi.isi_mobile_app",
       "package_name": "com.rikkei.isi.isi_mobile_app",
       "sha256_cert_fingerprints": [
-        "30:7D:1B:33:27:68:DC:47:2E:D4:69:BF:F8:26:56:07:A2:37:D4:7A:F4:AC:B9:B8:87:45:66:C3:1B:E5:F7:2F"
+        "44:C2:F6:2D:0C:5B:AC:BF:DA:87:05:90:42:17:01:D3:E1:BC:64:6D:92:8C:DD:96:1E:A0:9D:97:98:8B:C1:04"
       ]
     }
   }
