@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.rikkei.isi.isi_mobile_app",
+            "package_name": "com.tms_app.party_app",
             "sha256_cert_fingerprints": [
                 "44:C2:F6:2D:0C:5B:AC:BF:DA:87:05:90:42:17:01:D3:E1:BC:64:6D:92:8C:DD:96:1E:A0:9D:97:98:8B:C1:04"
             ]
@@ -17,7 +17,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.rikkei.isi.isi_mobile_app.dev",
+            "package_name": "com.tms_app.party_app.dev",
             "sha256_cert_fingerprints": [
                 "44:C2:F6:2D:0C:5B:AC:BF:DA:87:05:90:42:17:01:D3:E1:BC:64:6D:92:8C:DD:96:1E:A0:9D:97:98:8B:C1:04"
             ]
@@ -29,7 +29,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.rikkei.isi.isi_mobile_app.stg",
+            "package_name": "com.tms_app.party_app.stg",
             "sha256_cert_fingerprints": [
                 "44:C2:F6:2D:0C:5B:AC:BF:DA:87:05:90:42:17:01:D3:E1:BC:64:6D:92:8C:DD:96:1E:A0:9D:97:98:8B:C1:04"
             ]
